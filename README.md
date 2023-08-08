@@ -1,16 +1,21 @@
-### Hi there 👋
+Nice To See You.
 
-<!--
-**nam-dpatil/nam-dpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Namadev Patil, a passionate self-taught java full stack developer currently looking for an opportunity to launch my career in software engineering.
+👀 I’m interested in full time java fullstack development roles.
+🌱 I’m currently learning React.
 
-Here are some ideas to get you started:
+Projects :-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Calculator_app
+
+The Swing Calculator Application is a simple yet powerful tool designed to perform basic arithmetic calculations with a user-friendly graphical interface. This calculator enables users to perform addition, subtraction, multiplication, and division operations on numeric values. 
+
+1.User-Friendly Interface.
+
+2.Input and Display Area: The calculator provides a designated area to input numeric values and displays both the input expression and the result of the calculation.
+
+3.Input and Display Area: The calculator provides a designated area to input numeric values and displays both the input expression and the result of the calculation.
+
+4.Error Handling: The application incorporates error handling to prevent invalid inputs and ensure smooth operation.
+
+Github repo -https://github.com/nam-dpatil/Calculator_app 
