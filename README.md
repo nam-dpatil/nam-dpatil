@@ -1,7 +1,9 @@
-Nice To See You.
+Hey There! Nice To See You.
 
 Hi, I'm Namadev Patil, a passionate self-taught java full stack developer currently looking for an opportunity to launch my career in software engineering.
+
 👀 I’m interested in full time java fullstack development roles.
+
 🌱 I’m currently learning React.
 
 Projects :-
