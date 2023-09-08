@@ -43,3 +43,8 @@ Key Fetures:
   b. Employee data, user credentials, and other relevant information are stored securely in the database.
 
 Github repo -https://github.com/nam-dpatil/Employee-management-app 
+
+# Clone-Amazon-Website
+The goal of this project is to create a static clone of Amazon's e-commerce website using HTML and CSS. The clone will replicate the main features, layout, and design elements of Amazon's user interface to provide a realistic representation of the original website.
+
+Github repo -https://github.com/nam-dpatil/Clone-Amazon-Website/tree/main
