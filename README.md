@@ -44,14 +44,28 @@ Key Fetures:
 
 Github repo -https://github.com/nam-dpatil/Employee-management-app 
 
+
 # Clone-Amazon-Website
 The goal of this project is to create a static clone of Amazon's e-commerce website using HTML and CSS. The clone will replicate the main features, layout, and design elements of Amazon's user interface to provide a realistic representation of the original website.
 
 Github repo -https://github.com/nam-dpatil/Clone-Amazon-Website/tree/main
 
 
-# Custom User-Defined Collection in Java.
+# Console-app-core-java-projects
+Creating console-based projects for a banking system, departmental store management, and student db, employee db and use of comparator for custom sorting, in Java allows you to develop applications that perform specific tasks related to these domains. Here's a brief description of each project:
 
+1. Banking project :- The Banking System Console Project in Java is a text-based application that simulates the operations of a bank. It allows bank employees and customers to perform various banking tasks, such as creating and managing accounts, making deposits and withdrawals, transferring funds, and checking account balances.
+
+2. Departmental store project :- It is design to manage the operations of a departmental store. It allows store employees to handle tasks like inventory management, sales processing, and customer interactions.
+
+3. Student db :- The Student Database Management Console Project in Java is an application for managing student information within an educational institution. It provides tools for adding, updating, and retrieving student records, managing course enrollment, and generating reports.
+
+4. Employee db :- In Java is a command-line application designed to simplify the management of employee information within an organization. It provides tools for adding, updating, deleting, and retrieving employee records, making it an essential tool for human resources departments and managers.
+
+Github repo -https://github.com/nam-dpatil/Console-app-core-projects
+
+
+# Custom User-Defined Collection in Java
 A custom user-defined collection in Java is a specialized data structure that i design and implement to store and manage a collection of objects. Unlike the built-in collections like ArrayList, LinkedList, Map, a custom collection is tailored to address specific requirements or constraints of our application. It provides a way to organize, access, and manipulate objects according to our unique use case.
 
 Github repo -https://github.com/nam-dpatil/data-structure-and-algorithms
