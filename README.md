@@ -19,6 +19,7 @@ It will also offer features for sellers to list their products and manage their 
 Authentication and Authorization features to control access to resources and ensure that only authenticated users can perform authorized actions.
 
 User-friendly navigation and secure payment options with Paytm.
+Github repo - https://github.com/nam-dpatil/E-Commerce-Website.git
 
 # Calculator_app
 
