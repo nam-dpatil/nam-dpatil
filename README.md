@@ -19,7 +19,19 @@ It will also offer features for sellers to list their products and manage their 
 Authentication and Authorization features to control access to resources and ensure that only authenticated users can perform authorized actions.
 
 User-friendly navigation and secure payment options with Paytm.
+
 Github repo - https://github.com/nam-dpatil/E-Commerce-Website.git
+
+# Weather App
+The weather app project is a dynamic and user-friendly web application built using React.js.
+
+It utilizes OpenWeatherMap API to retrieve current weather forecasts for various cities around the world. 
+
+The app allows users to search for a city by name and view its weather conditions, including temperature, humidity, wind speed, and description of the current weather.
+
+Additionally, the app displays an appropriate image based on the weather conditions in the selected city.
+
+Github repo - https://github.com/nam-dpatil/Weather-App.git
 
 # Calculator_app
 
