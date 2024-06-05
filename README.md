@@ -10,8 +10,6 @@ Projects :-
 
 # E-Commerce-Website
 
-
-Jul 23 
 Engineered a website will provide a 100% user-friendly interface for customers to browse, search, sort, and purchase products. 
 
 Boosted seller satisfaction by 50% by giving them powerful capabilities that let them display their products and manage their inventory with simplicity. 
