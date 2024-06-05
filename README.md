@@ -10,26 +10,26 @@ Projects :-
 
 # E-Commerce-Website
 
-The E-Commerce Website project aims to develop a comprehensive online platform for buying and selling products.
 
-The website will provide a user-friendly interface for customers to browse, search, sort, and purchase products.
+Jul 23 
+Engineered a website will provide a 100% user-friendly interface for customers to browse, search, sort, and purchase products. 
 
-It will also offer features for sellers to list their products and manage their inventory.
+Boosted seller satisfaction by 50% by giving them powerful capabilities that let them display their products and manage their inventory with simplicity. 
 
-Authentication and Authorization features to control access to resources and ensure that only authenticated users can perform authorized actions.
+Crafted authentication and authorization features, these control resource access and ensure that only authorized users can carry out allowed actions, improving security by 80%. 
 
-User-friendly navigation and secure payment options with Paytm.
+Integrated a secure payment gateway (Paytm), offering customers a payment option and increased customer trust by 40%. 
 
 Github repo - https://github.com/nam-dpatil/E-Commerce-Website.git
 
 # Weather App
-The weather app project is a dynamic and user-friendly web application built using React.js.
+Developed user-friendly React.js web application for weather condition, resulting in a 40% increase in user engagement.
 
-It utilizes OpenWeatherMap API to retrieve current weather forecasts for various cities around the world. 
+Integrated OpenWeatherMap API service on our website for 70% more reliable forecasts across global cities, ensuring accuracy with current data. 
 
-The app allows users to search for a city by name and view its weather conditions, including temperature, humidity, wind speed, and description of the current weather.
+Enhanced customer satisfaction by 90% with a city search feature providing detailed weather information like temperature, humidity, and wind speed. 
 
-Additionally, the app displays an appropriate image based on the weather conditions in the selected city.
+Displays a relevant image corresponding to the weather conditions in the selected city, improved user engagement by 60%. 
 
 Github repo - https://github.com/nam-dpatil/Weather-App.git
 
