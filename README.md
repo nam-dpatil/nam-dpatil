@@ -1,6 +1,6 @@
 # Hey There! Nice To See You.
 
-Hi, I'm Namadev Patil, a passionate self-taught java full stack developer currently looking for an opportunity to launch my career in software engineering.
+Experienced Java full stack developer with 2 years of experience participating in all aspects of the software development lifecycle, which includes software design, implementation, documentation, testing, deployment, and support of applications developed for various clients..
 
 👀 I’m interested in full time java fullstack development roles.
 
